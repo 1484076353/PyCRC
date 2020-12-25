@@ -5,6 +5,8 @@
     * Time:2020/12/24
     * description:
 """
+def start():
+    print("import successful")
 
 CRC_4_ITU = 'CRC-4/ITU'
 CRC_5_EPC = 'CRC-5/EPC'
