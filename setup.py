@@ -10,7 +10,7 @@ import setuptools
 
 setuptools.setup(name='PyCRC-Hex',
                  packages=setuptools.find_packages(),
-                 version='1.0.0',
+                 version='1.1.0',
                  description='Python Cyclic Redundancy Check,LRC,BCC',
                  author='ChenJun0177112278@163.com',
                  author_email='ChenJun0177112278@163.com',
